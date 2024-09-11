@@ -1,0 +1,28 @@
+{
+  "@@locale": "en",
+  "applicationTitle": "Flutter Demo Structure",
+  "@appName": {
+    "description": "Application Name"
+  },
+  "connectionTimedOut": "The connection has timed out. Please try again",
+  "connectionProblem": "There are some problems with the connection. Please try again",
+  "invalidCredentials": "Invalid credentials",
+  "home": "Home",
+  "geofencing": "Geofencing",
+  "settings": "Settings",
+  "selectLanguage": "Select Language",
+  "changeLanguage": "Change Language",
+  "invalidRequest": "Invalid Request:",
+  "unauthorised": "Unauthorised:",
+  "invalidInput": "Invalid Input:",
+  "noActiveInternetConnection": "No Active Internet Connection",
+  "connectionToServerFailedDueToInternetConnection": "Connection to server failed due to internet connection.",
+  "somethingWentWrongPleaseTryAfterSometime": "Something went wrong. Please try after sometime.",
+  "requestToServerWasCancelled": "Request to server was cancelled",
+  "connectionTimeoutWithServer": "Connection timeout with server",
+  "requestCantBeHandledForNowPleaseTryAfterSometime": "Request can't be handled for now. Please try after sometime.",
+  "pleaseLoginAgain": "Please login again.",
+  "somethingWhenWrongPleaseTryAgain": "Something when wrong. Please try again.",
+  "errorUploadingPhoto": "Error uploading photo",
+  "unknownError": "Unknown error"
+}
